@@ -4,4 +4,4 @@ I'm currently studying Python, Django, JavaScript, Test-Driven Development, and 
 
 I'll update this page with my bio, skills and portfolio projects in the near future.
 
-Feel free to [mailto:raoul@raoulcapello.nl](contact me) in the meantime.
+Feel free to [contact me](mailto:raoul@raoulcapello.nl) in the meantime.
